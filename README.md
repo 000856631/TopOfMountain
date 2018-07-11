@@ -1,6 +1,6 @@
 # TopOfMountain
 代码之巅，积累学习
-# bookScan
+
 第二个小程序
 基于water2的总流程
 https://www.ifanr.com/minapp/915777
@@ -464,4 +464,5 @@ Velocity 和 jQuery.animate 的工作方式类似，也是用来实现 JavaScrip
 纠结vue究竟有没有触摸事件？
 
 第一天，搭建好git hub库  整理好IDE webStorm，并保存在百度网盘内。
+vue-cli搭建教程：https://segmentfault.com/a/1190000009291545
 把以前的学习心得记录下来。
